@@ -1,5 +1,5 @@
-
 Purpose:
+
 The project is about building a small ETL program in python. Each pat of the project focuses on different stages of the ETL process.
 
 Steps:
