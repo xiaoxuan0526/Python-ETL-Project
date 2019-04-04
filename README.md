@@ -8,3 +8,6 @@ Steps:
 2. Extract data from CSV file
 3. Transform the data and save to the database
 4. Load data from the database and calculate some indicators
+
+
+This project was built in Dec.2017
